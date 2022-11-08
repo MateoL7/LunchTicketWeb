@@ -1,7 +1,7 @@
 {
   "main.css": "/LunchTicketWeb/static/css/main.1d5bb046.chunk.css",
-  "main.js": "/LunchTicketWeb/static/js/main.4a0d6607.chunk.js",
-  "main.js.map": "/LunchTicketWeb/static/js/main.4a0d6607.chunk.js.map",
+  "main.js": "/LunchTicketWeb/static/js/main.f5ea85d6.chunk.js",
+  "main.js.map": "/LunchTicketWeb/static/js/main.f5ea85d6.chunk.js.map",
   "static/css/1.7e96699d.chunk.css": "/LunchTicketWeb/static/css/1.7e96699d.chunk.css",
   "static/js/1.01450729.chunk.js": "/LunchTicketWeb/static/js/1.01450729.chunk.js",
   "static/js/1.01450729.chunk.js.map": "/LunchTicketWeb/static/js/1.01450729.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/css/1.7e96699d.chunk.css.map": "/LunchTicketWeb/static/css/1.7e96699d.chunk.css.map",
   "static/css/main.1d5bb046.chunk.css.map": "/LunchTicketWeb/static/css/main.1d5bb046.chunk.css.map",
   "index.html": "/LunchTicketWeb/index.html",
-  "precache-manifest.e2f9c4cc046fdffb3e06c4c8e9c73906.js": "/LunchTicketWeb/precache-manifest.e2f9c4cc046fdffb3e06c4c8e9c73906.js",
+  "precache-manifest.76b7099f50f3c27660c7b56b9bd4bc37.js": "/LunchTicketWeb/precache-manifest.76b7099f50f3c27660c7b56b9bd4bc37.js",
   "service-worker.js": "/LunchTicketWeb/service-worker.js"
 }
