@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4b9018d64ee93b34362b",
+    "revision": "c3e51d8aadb2bfd3b1df",
     "url": "/LunchTicketWeb/static/css/main.1d5bb046.chunk.css"
   },
   {
-    "revision": "4b9018d64ee93b34362b",
-    "url": "/LunchTicketWeb/static/js/main.4b9018d6.chunk.js"
+    "revision": "c3e51d8aadb2bfd3b1df",
+    "url": "/LunchTicketWeb/static/js/main.c3e51d8a.chunk.js"
   },
   {
     "revision": "be4b25fc35edde027904",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/LunchTicketWeb/static/media/logo.9a8b77d1.png"
   },
   {
-    "revision": "583719b01ca1fb87778fbadb899090ee",
+    "revision": "625469d88feb559978ae406143ec04ad",
     "url": "/LunchTicketWeb/index.html"
   }
 ];
