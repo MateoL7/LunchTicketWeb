@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/LunchTicketWeb/static/media/logo.9a8b77d1.png"
   },
   {
-    "revision": "2ec974e7573296c9802edd6ee1c656ad",
+    "revision": "5572ad955d4bce4a8e0f0ad06a23006c",
     "url": "/LunchTicketWeb/index.html"
   }
 ];
